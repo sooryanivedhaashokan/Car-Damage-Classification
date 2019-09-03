@@ -1,6 +1,6 @@
 # Car-Damage-Classification
 
-Please follow the below steps to test the code:
+Please follow the steps below to test the code:
 
 1. Clone the repository using the below command or download the repository.
 
